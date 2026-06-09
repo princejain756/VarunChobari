@@ -1,0 +1,45 @@
+:root {
+  /* Color Palette — Cinematic Dark Luxury */
+  --color-void: #080808;
+  --color-obsidian: #0E0E0E;
+  --color-charcoal: #141414;
+  --color-graphite: #1C1C1C;
+  --color-slate: #2A2A2A;
+  --color-silver: #8A8680;
+  --color-silver-light: #A8A49C;
+  --color-ivory: #E8E4DD;
+  --color-ivory-muted: #C9C4BB;
+  --color-warm: #C4B8A8;
+  --color-warm-subtle: rgba(196, 184, 168, 0.12);
+  --color-accent: #D4C8B8;
+  --color-white: #F5F2ED;
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', 'Georgia', serif;
+  --font-body: 'Outfit', 'Helvetica Neue', sans-serif;
+
+  /* Spacing Scale */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+  --space-3xl: 10rem;
+
+  /* Layout */
+  --max-width: 1400px;
+  --content-width: 1200px;
+  --nav-height: 80px;
+
+  /* Motion */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --duration-fast: 0.3s;
+  --duration-medium: 0.6s;
+  --duration-slow: 1s;
+
+  /* Borders */
+  --border-subtle: 1px solid rgba(232, 228, 221, 0.08);
+  --border-hover: 1px solid rgba(232, 228, 221, 0.2);
+}
