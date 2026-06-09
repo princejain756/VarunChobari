@@ -1,0 +1,6 @@
+{
+  "name": "Aaron Vega Portfolio",
+  "description": "An ultra-premium, award-winning cinematic portfolio for Aaron Vega, Digital Creative Director. Features stunning editorial visuals, case studies, and an integrated AI Creative Double.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
